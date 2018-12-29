@@ -84,6 +84,11 @@ PR's welcome!
 
 ## API's
 
+- [Nvidia RTX](https://developer.nvidia.com/rtx)
+- [Microsoft DirectX Raytracing (DXR)](https://blogs.msdn.microsoft.com/directx/2018/03/19/announcing-microsoft-directx-raytracing/)
+- [Nvidia Optix](https://developer.nvidia.com/optix)
+- [Intel Embree](http://embree.github.io/)
+
 ### Nvidia RTX
 
 - [Introduction to Real-Time Ray Tracing with Vulkan - *Nuno Subtil*](https://devblogs.nvidia.com/vulkan-raytracing/)
