@@ -15,11 +15,11 @@ PR's welcome!
 - [Photon Mapping](#photon-mapping)
 - [Sampling Methods](#sampling-methods)
 - [Reference Scenes](#reference-scenes)
+- [News](#news)
 - [API's](#apis)
   - [Nvidia RTX](#nvidia-rtx)
   - [Microsoft DirectX Raytracing (RTX)](#microsoft-directx-raytracing-dxr)
   - [Nvidia OptiX](#nvidia-optix)
-- [News](#news)
   
 ---
 
@@ -82,6 +82,10 @@ PR's welcome!
 - [PBRT Scenes v3](https://www.pbrt.org/scenes-v3.html)
 - [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html)
 
+## News
+
+- [Graphics Programming weekly - *Jendrik Illner*](https://www.jendrikillner.com/post/)
+
 ## API's
 
 - [Nvidia RTX](https://developer.nvidia.com/rtx)
@@ -102,7 +106,3 @@ PR's welcome!
 ### Nvidia OptiX
 
 - [OptiX QuickStart - *Nvidia*](https://docs.nvidia.com/gameworks/content/gameworkslibrary/optix/optix_quickstart.htm)
-
-## News
-
-- [Graphics Programming weekly - *Jendrik Illner*](https://www.jendrikillner.com/post/)
