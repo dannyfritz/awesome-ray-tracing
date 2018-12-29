@@ -11,7 +11,7 @@
   <dd>Bidirectional Scattering-Surface Reflectance Function</dd>
   <dt>BTDF</dt>
   <dd>Bidirectional Transmittance Distribution Function</dd>
-  <dt>BTF</dt>
+  <dt><a href="https://en.wikipedia.org/wiki/Bidirectional_texture_function">BTF</a></dt>
   <dd>Bidirectional Texture Function</dd>
   <dt>BVH</dt>
   <dd>Bounding Volume Hierarchy</dd>
