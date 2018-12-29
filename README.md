@@ -82,6 +82,7 @@ PR's welcome!
 - [PBRT Scenes v3](https://www.pbrt.org/scenes-v3.html)
 - [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html)
 - [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca)
+- [Disney Data Sets](https://www.technology.disneyanimation.com/collaboration-through-sharing)
 
 ## News
 
@@ -94,7 +95,6 @@ PR's welcome!
 - [Nvidia Optix](https://developer.nvidia.com/optix)
 - [AMD Radeon-Rays](www.realtimerendering.com/raytracing.html)
 - [Intel Embree](http://embree.github.io/)
-- [Disney Data Sets](https://www.technology.disneyanimation.com/collaboration-through-sharing)
 
 ### Nvidia RTX
 
