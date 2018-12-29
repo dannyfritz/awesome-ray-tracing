@@ -87,11 +87,11 @@
 
 ### Nvidia OptiX
 
-- [OptiX QuickStart](https://docs.nvidia.com/gameworks/content/gameworkslibrary/optix/optix_quickstart.htm)
+- [OptiX QuickStart - *Nvidia*](https://docs.nvidia.com/gameworks/content/gameworkslibrary/optix/optix_quickstart.htm)
 
 ### Nvidia RTX
 
-- [Introduction to Real-Time Ray Tracing with Vulkan](https://devblogs.nvidia.com/vulkan-raytracing/)
+- [Introduction to Real-Time Ray Tracing with Vulkan - *Nuno Subtil*](https://devblogs.nvidia.com/vulkan-raytracing/)
 - [Vulkan Raytracing Tutorials - *iOrange*](https://iorange.github.io/p02/TeapotAndBunny.html)
 - [Video Series: Practical Real-Time Ray Tracing With RTX - *Nvidia*](https://devblogs.nvidia.com/practical-real-time-ray-tracing-rtx/)
 
