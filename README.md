@@ -108,6 +108,7 @@ PR's welcome!
   - 📖 [Importance Sampling techniques for GGX with Smith Masking-Shadowing Part 2 - (2018) *Joe Schutte*](https://schuttejoe.github.io/post/ggximportancesamplingpart2/)
 - 📖 [Double Hierarchies for Directional Importance Sampling in Monte Carlo Rendering - (2018) *Norbert Bus and Tamy Boubekeur*](http://www.jcgt.org/published/0006/03/02/)
 - 📖 [Importance Sampling of Many Lights with Adaptive Tree Splitting - (2018) *Alejandro Conty and Christopher Kulla*](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxja3VsbGF8Z3g6NWM0NmU2YWVlNjE3ODk1Yw)
+- 📖 [Monte Carlo Methods for Volumetric Light Transport Simulation - (2018) *Jan Novák, Iliyan Georgiev, Johannes Hanika, and Wojciech Jarosz*](http://iliyan.com/publications/VolumeSTAR)
 
 ## Realtime
 
