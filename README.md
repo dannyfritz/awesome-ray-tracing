@@ -12,7 +12,7 @@ PR's welcome!
 - [Ray Casting](#ray-casting)
 - [BRDF, BSSDF, BTDF, and BRDF](#brdf-bssdf-btdf-and-brdf)
 - [Path Tracing](#path-tracing)
-- [Photo Mapping](#photon-mapping)
+- [Photon Mapping](#photon-mapping)
 - [Sampling Methods](#sampling-methods)
 - [Reference Scenes](#reference-scenes)
 - [API's](#apis)
