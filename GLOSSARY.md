@@ -34,7 +34,7 @@
   <dt>Realtime</dt>
   <dd>A rendering method that is intended for interaction. Usually requires render times in the milliseconds.</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Path_tracing">Path Tracing</a></dt>
-  <dd>A method of rendering that is faithful to global illumination.
+  <dd>A rendering method using ray tracing that approximates the rendering equation by sampling a random subset of all possible light paths between the observer and the scene's light sources.</dd>
   <dt>PBR</dt>
   <dd>
     1. Physically Based Rendering
@@ -62,4 +62,6 @@
   <dd>Subsurface Scattering</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Subsurface_scattering">Subsurface Scattering</a></dt>
   <dd>When light enters a material, scatters, and exits from another point. Example materials requring this method to look realistic are human skin, leaves, wax, and milk.</dd>
+  <dt><a href="https://en.wikipedia.org/wiki/Stochastic#Computer_science">Stochastic Sampling</a></dt>
+  <dd>A random subset. Can be used to reduce the total of rays needed to converge a render.</dd>
 </dl>
