@@ -28,7 +28,7 @@ PR's welcome!
 | ---- | ------- |
 | 📖 | Reading |
 | 📺 | Video |
-| 💾 | Code |
+| 💾 | Code / Asset |
 
 ---
 
