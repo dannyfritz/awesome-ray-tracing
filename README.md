@@ -1,5 +1,7 @@
 # Awesome Ray Tracing [![CC0 License](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+![Ray Trace Spheres](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Recursive_raytrace_of_a_sphere.png/240px-Recursive_raytrace_of_a_sphere.png)
+
 ## Table of Contents
 
 - [News](#news)
@@ -24,6 +26,8 @@
 
 ## Ray Tracing
 
+![Ray Tracing Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ray_trace_diagram.svg/320px-Ray_trace_diagram.svg.png)
+
 - [Ray Tracing in One Weekend - *Peter Shirley*](http://in1weekend.blogspot.com/2016/01/ray-tracing-in-one-weekend.html)
 - [Real-Time Rendering Chapter - *Tomas Akenine-Möller, Eric Haines, Naty Hoffman, Angelo Pesce, Michał Iwanicki, and Sébastien Hillaire*](http://www.realtimerendering.com/raytracing.html)
 - [A course on photorealistic rendering, ray tracing and global illumination - *TU Wien*](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
@@ -32,17 +36,23 @@
 
 ## Math
 
+![Dot Product](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Inner-product-angle.svg/320px-Inner-product-angle.svg.png)
+
 - [PBRT Chapter 2 Geometry and Transformations - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Geometry_and_Transformations.html)
 - [PBRT Chapter 3 Shapes - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Shapes.html)
 - [Linear Algebra - *Khan Academy*](https://www.khanacademy.org/math/linear-algebra)
 
 ## Ray Casting
 
+![BVH](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Example_of_bounding_volume_hierarchy.svg/320px-Example_of_bounding_volume_hierarchy.svg.png)
+
 - [Ray-Triangle Intersection: Geometric Solution - *Scratchapixel*](https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/ray-triangle-intersection-geometric-solution)
 - [Introduction to Acceleration Structures - *Scratchapixel*](https://www.scratchapixel.com/lessons/advanced-rendering/introduction-acceleration-structure/bounding-volume)
 - [PBRT Chater 4 Primitives and Intersection Acceleration - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Primitives_and_Intersection_Acceleration.html)
 
 ## BRDF, BSSDF, BTDF, and BRDF
+
+![BRDF](https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/BSDF05_800.png/179px-BSDF05_800.png)
 
 - [PBRT Chapter 5.6 Surface Reflection - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Color_and_Radiometry/Surface_Reflection.html)
 - [PBRT Chapter 8 Reflection Models - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Reflection_Models.html)
@@ -59,11 +69,15 @@
 
 ## Sampling Methods
 
+![Hammersley Set](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hammersley_set_2D.svg/289px-Hammersley_set_2D.svg.png)
+
 - [PBRT Chapter 7 - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Sampling_and_Reconstruction.html)
 - [Robust Monte Carlo Methods for Light Transport Simulation - *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
 - [Flavors of Sampling in Ray Tracing  - *Peter Shirley*](http://psgraphics.blogspot.com/2018/10/flavors-of-sampling-in-ray-tracing.html)
 
 ## Reference Scenes
+
+![Cornell Box](https://upload.wikimedia.org/wikipedia/commons/2/24/Cornell_box.png)
 
 - [Benedikt Bitterli](https://benedikt-bitterli.me/resources/)
 - [PBRT Scenes v3](https://www.pbrt.org/scenes-v3.html)
