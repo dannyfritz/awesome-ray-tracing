@@ -31,19 +31,24 @@
   <dd>Rendering a scene with interaction in mind. For example, endlessly rendering a frame every 16ms.</dd>
   <dt>Path Tracing</dt>
   <dd>A method of Ray Tracing that involves recursively casting rays from the camera until a depth is reached or a light source is hit.
-  <dt>PBR / PBRT</dt>
+  <dt>PBR</dt>
+  <dd>
+    1. Physically Based Rendering
+    <br>2. Physically Based Rendering Book
+  </dd>
+  <dt>PBRT</dt>
   <dd>Physically Based Rendering Book</dd>
   <dt>Phong</dt>
   <dd>Ambient, diffuse, and specular material</dd>
   <dt>Ray Casting</dt>
   <dd>
   1. A method of rendering that casts primary rays and returns a color.
-  2. Sending a ray into a scene and intersecting with geometry.
+  <br>2. Sending a ray into a scene and intersecting with geometry.
   </dd>
   <dt>Ray Tracing</dt>
   <dd>
-  1. A method of rendering that casts rays into a scene.<br>
-  2. Whitted style ray tracing. Cast rays and detect shadow and light rays.
+  1. A method of rendering that casts rays into a scene.
+  <br>2. Whitted style ray tracing. Cast rays and detect shadow and light rays.
   </dd>
   <dt>SSS</dt>
   <dd>Subsurface Scattering</dd>
