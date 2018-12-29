@@ -8,6 +8,7 @@ PR's welcome!
 ## Table of Contents
 
 - [Ray Tracing](#ray-tracing)
+- [Glossary of Terms](GLOSSARY.md)
 - [Math](#math)
 - [Ray Casting](#ray-casting)
 - [BXDF](#bxdf)
@@ -20,7 +21,6 @@ PR's welcome!
   - [Nvidia RTX](#nvidia-rtx)
   - [Microsoft DirectX Raytracing (RTX)](#microsoft-directx-raytracing-dxr)
   - [Nvidia OptiX](#nvidia-optix)
-- [Glossary of Terms](GLOSSARY.md)
   
 ---
 
@@ -37,6 +37,8 @@ PR's welcome!
 - [The Rendering Equation - (1986) *James T. Kajiya*](http://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/IA725/ia725-12010/kajiya-SIG86-p143.pdf)
 - [Global Illumination Compendium - (2003) *Philip Dutré*](https://people.cs.kuleuven.be/~philip.dutre/GI/TotalCompendium.pdf)
 - [Robust Monte Carlo Methods for Light Transport Simulation (1998) - *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
+
+## [Glossary of Terms](GLOSSARY.md)
 
 ## Math
 
@@ -115,5 +117,3 @@ PR's welcome!
 ### Nvidia OptiX
 
 - [OptiX QuickStart - *Nvidia*](https://docs.nvidia.com/gameworks/content/gameworkslibrary/optix/optix_quickstart.htm)
-
-## [Glossary of Terms](GLOSSARY.md)
