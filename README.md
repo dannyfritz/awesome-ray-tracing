@@ -24,6 +24,7 @@
 
 - [Real-Time Rendering Chapter - *Tomas Akenine-Möller, Eric Haines, Naty Hoffman, Angelo Pesce, Michał Iwanicki, and Sébastien Hillaire*](http://www.realtimerendering.com/raytracing.html)
 - [A course on photorealistic rendering, ray tracing and global illumination - *TU Wien*](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
+- [Physically Based Rendering Book (PBRT) - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/)
 
 ## Path Tracing
 
@@ -37,10 +38,6 @@
 
 - [Robust Monte Carlo Methods for Light Transport Simulation - *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
 - [Flavors of Sampling in Ray Tracing  - *Peter Shirley*](http://psgraphics.blogspot.com/2018/10/flavors-of-sampling-in-ray-tracing.html)
-
-## Physically Based Rendering
-
-- [Physically Based Rendering Book (PBRT) - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/)
 
 ## Ray Casting
 
