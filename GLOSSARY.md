@@ -53,6 +53,7 @@
   <dd>
   1. A method of rendering that casts rays into a scene.
   <br>2. Whitted style ray tracing. Cast rays and detect shadow and light rays.
+  <br>3. Path tracing.
   </dd>
   <dt>SSS</dt>
   <dd>Subsurface Scattering</dd>
