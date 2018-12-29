@@ -116,13 +116,16 @@ PR's welcome!
 
 ### Nvidia RTX
 
-- 📖 [Introduction to Real-Time Ray Tracing with Vulkan - (2018) *Nuno Subtil*](https://devblogs.nvidia.com/vulkan-raytracing/)
+- 📖📺 [Introduction to Real-Time Ray Tracing with Vulkan - (2018) *Nuno Subtil*](https://devblogs.nvidia.com/vulkan-raytracing/)
 - 📖 [Vulkan Raytracing Tutorials - (2018) *iOrange*](https://iorange.github.io/p02/TeapotAndBunny.html)
 - 📺 [Video Series: Practical Real-Time Ray Tracing With RTX - (2018) *Nvidia*](https://devblogs.nvidia.com/practical-real-time-ray-tracing-rtx/)
+- 📖 [Effectively Integrating RTX Ray Tracing into a Real-Time Rendering Engine - (2018) *Juha Sjoholm*](https://devblogs.nvidia.com/effectively-integrating-rtx-ray-tracing-real-time-rendering-engine/)
 
 ### Microsoft DirectX Raytracing (DXR)
 
+- [Introducion to DirectX Raytracing - (2018) * Chris Wyman, Shawn Hargreaves, Peter Shirley, Colin Barré-Brisebois *](http://intro-to-dxr.cwyman.org/)
 - 💾 [DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer)
+- 📺 [Real-Time Ray Tracing for Interactive Global Illumination Workflows in Frostbite - (2018) *Sebastien Hillaire, Charles de Rousiers, Diede Apers and Petter Edblom*](https://devblogs.nvidia.com/video-real-time-ray-tracing-workflows-frostbite/)
 
 ### Nvidia OptiX
 
