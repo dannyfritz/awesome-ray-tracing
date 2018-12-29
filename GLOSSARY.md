@@ -2,7 +2,7 @@
 
 <dl>
   <dt>Acceleration Structure</dt>
-  <dd>A data structure to optimize ray casting into a scene. Often a BVH.</dd>
+  <dd>A data structure to optimize ray-primitive intersections in a scene. Often a BVH.</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Bidirectional_reflectance_distribution_function">BRDF</a></dt>
   <dd>Bidirectional Reflectance Distribution Function</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Bidirectional_scattering_distribution_function">BSDF</a></dt>
