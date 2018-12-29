@@ -59,7 +59,7 @@
   <br>3. Path tracing.
   </dd>
   <dt><a href="https://en.wikipedia.org/wiki/Rendering_equation">Rendering Equation</a></dt>
-  <dd>A integral formula that describes a framework of how light interacts with a material.</dd>
+  <dd>A integral formula that describes a framework of how light interacts with a material along a path between observer and light source.</dd>
   <dt>SSS</dt>
   <dd>Subsurface Scattering</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Subsurface_scattering">Subsurface Scattering</a></dt>
