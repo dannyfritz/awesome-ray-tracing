@@ -4,11 +4,10 @@
 
 - [News](#news)
 - [Ray Tracing](#ray-tracing)
+- [Ray Casting](#ray-casting)
 - [Path Tracing](#path-tracing)
 - [Photo Mapping](#photon-mapping)
-- [Stochastic Methods](#stochastic-methods)
-- [Physically Based Rendering](#physically-based-rendering)
-- [Ray Casting](#ray-casting)
+- [Sampling Methods](#sampling-methods)
 - [API's](#apis)
   - [Nvidia OptiX](#nvidia-optix)
   - [Nvidia RTX](#nvidia-rtx)
@@ -26,6 +25,11 @@
 - [A course on photorealistic rendering, ray tracing and global illumination - *TU Wien*](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 - [Physically Based Rendering Book (PBRT) - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/)
 
+## Ray Casting
+
+- [Introduction to Acceleration Structures - *Scratchapixel*](https://www.scratchapixel.com/lessons/advanced-rendering/introduction-acceleration-structure/bounding-volume)
+- [Ray-Triangle Intersection: Geometric Solution - *Scratchapixel*](https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/ray-triangle-intersection-geometric-solution)
+
 ## Path Tracing
 
 - [Ray Tracing in One Weekend - *Peter Shirley*](http://in1weekend.blogspot.com/2016/01/ray-tracing-in-one-weekend.html)
@@ -38,11 +42,6 @@
 
 - [Robust Monte Carlo Methods for Light Transport Simulation - *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
 - [Flavors of Sampling in Ray Tracing  - *Peter Shirley*](http://psgraphics.blogspot.com/2018/10/flavors-of-sampling-in-ray-tracing.html)
-
-## Ray Casting
-
-- [Introduction to Acceleration Structures - *Scratchapixel*](https://www.scratchapixel.com/lessons/advanced-rendering/introduction-acceleration-structure/bounding-volume)
-- [Ray-Triangle Intersection: Geometric Solution - *Scratchapixel*](https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/ray-triangle-intersection-geometric-solution)
 
 ## API's
 
