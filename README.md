@@ -22,7 +22,7 @@
 
 ## Ray Tracing
 
-- [Real-Time Rendering Chapter](http://www.realtimerendering.com/raytracing.html)
+- [Real-Time Rendering Chapter - *Tomas Akenine-Möller, Eric Haines, Naty Hoffman, Angelo Pesce, Michał Iwanicki, and Sébastien Hillaire*](http://www.realtimerendering.com/raytracing.html)
 - [A course on photorealistic rendering, ray tracing and global illumination - *TU Wien*](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
 ## Path Tracing
