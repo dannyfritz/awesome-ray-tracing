@@ -16,9 +16,9 @@ PR's welcome!
 - [Sampling Methods](#sampling-methods)
 - [Reference Scenes](#reference-scenes)
 - [API's](#apis)
-  - [Nvidia OptiX](#nvidia-optix)
   - [Nvidia RTX](#nvidia-rtx)
   - [Microsoft DirectX Raytracing (RTX)](#microsoft-directx-raytracing-dxr)
+  - [Nvidia OptiX](#nvidia-optix)
 - [News](#news)
   
 ---
@@ -84,23 +84,19 @@ PR's welcome!
 
 ## API's
 
-### Nvidia OptiX
-
-- [OptiX QuickStart - *Nvidia*](https://docs.nvidia.com/gameworks/content/gameworkslibrary/optix/optix_quickstart.htm)
-
 ### Nvidia RTX
 
 - [Introduction to Real-Time Ray Tracing with Vulkan - *Nuno Subtil*](https://devblogs.nvidia.com/vulkan-raytracing/)
 - [Vulkan Raytracing Tutorials - *iOrange*](https://iorange.github.io/p02/TeapotAndBunny.html)
 - [Video Series: Practical Real-Time Ray Tracing With RTX - *Nvidia*](https://devblogs.nvidia.com/practical-real-time-ray-tracing-rtx/)
 
-### Nvidia CUDA
-
-- [Accelerated Ray Tracing in One Weekend in CUDA - *Roger Allen*](https://devblogs.nvidia.com/accelerated-ray-tracing-cuda/)
-
 ### Microsoft DirectX Raytracing (DXR)
 
 - [DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer)
+
+### Nvidia OptiX
+
+- [OptiX QuickStart - *Nvidia*](https://docs.nvidia.com/gameworks/content/gameworkslibrary/optix/optix_quickstart.htm)
 
 ## News
 
