@@ -45,7 +45,6 @@ PR's welcome!
 - 📖 [The Rendering Equation - (1986) *James T. Kajiya*](http://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/IA725/ia725-12010/kajiya-SIG86-p143.pdf)
 - 📖 [Global Illumination Compendium - (2003) *Philip Dutré*](https://people.cs.kuleuven.be/~philip.dutre/GI/TotalCompendium.pdf)
 - 📖 [Robust Monte Carlo Methods for Light Transport Simulation (1998) - *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
-- [Fractal Ray Tracing 
 
 ## Path Tracing
 
@@ -108,7 +107,14 @@ PR's welcome!
 - 📖 [Importance Sampling techniques for GGX with Smith Masking-Shadowing Part 1 - (2018) *Joe Schutte*](https://schuttejoe.github.io/post/ggximportancesamplingpart2/)
   - 📖 [Importance Sampling techniques for GGX with Smith Masking-Shadowing Part 2 - (2018) *Joe Schutte*](https://schuttejoe.github.io/post/ggximportancesamplingpart2/)
 - 📖 [Double Hierarchies for Directional Importance Sampling in Monte Carlo Rendering - (2018) *Norbert Bus and Tamy Boubekeur*](http://www.jcgt.org/published/0006/03/02/)
-- [Importance Sampling of Many Lights with Adaptive Tree Splitting - (2018) *Alejandro Conty and Christopher Kulla*](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxja3VsbGF8Z3g6NWM0NmU2YWVlNjE3ODk1Yw)
+- 📖 [Importance Sampling of Many Lights with Adaptive Tree Splitting - (2018) *Alejandro Conty and Christopher Kulla*](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxja3VsbGF8Z3g6NWM0NmU2YWVlNjE3ODk1Yw)
+
+## Realtime
+
+- 📖 [Real-Time Ray Tracing of Correct* Soft Shadows -(2018) *Stephen Hill and Morgan McGuire*](http://advances.realtimerendering.com/s2018/s2018_real_time_correct_soft_shadows.pdf)
+- 📺 [Stochastic All the Things: Raytracing in Hybrid Real-Time Rendering - (2018) **](https://www.ea.com/seed/news/seed-dd18-presentation-slides-raytracing)
+- 📖 [Adopting Lessong From Offline Ray-Tracing to Real-Time Ray-Tracing for Practical Pipelines - (2018) *Matt Pharr*](http://advances.realtimerendering.com/s2018/Pharr%20-%20Advances%20in%20RTR%20-%20Real-time%20Ray%20Tracing.pdf)
+- 📖 [Game Ray Tracing: State-of-the-Art and Open Problems - (2018) *Colin Barré Brisebois*](https://www.ea.com/seed/news/hpg-2018-keynote)
 
 ## Reference Scenes
 
@@ -142,6 +148,7 @@ PR's welcome!
 ### Microsoft DirectX Raytracing (DXR)
 
 - 📺📖 [Introducion to DirectX Raytracing - (2018) * Chris Wyman, Shawn Hargreaves, Peter Shirley, Colin Barré-Brisebois*](http://intro-to-dxr.cwyman.org/)
+- 📖 [DX12 Ray Tracing Tutorials - (2018) *Martin-Karl Lefrançois and Pascal Gautron*](https://news.developer.nvidia.com/dx12-raytracing-tutorials/)
 - 💾 [DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer)
 - 📺 [Real-Time Ray Tracing for Interactive Global Illumination Workflows in Frostbite - (2018) *Sebastien Hillaire, Charles de Rousiers, Diede Apers and Petter Edblom*](https://devblogs.nvidia.com/video-real-time-ray-tracing-workflows-frostbite/)
 
