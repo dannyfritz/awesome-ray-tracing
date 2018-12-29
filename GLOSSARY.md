@@ -58,5 +58,5 @@
   <dt>SSS</dt>
   <dd>Subsurface Scattering</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Subsurface_scattering">Subsurface Scattering</a></dt>
-  <dd>When light enters a material, moves around, and exits from another point.</dd>
+  <dd>When light enters a material, scatters, and exits from another point. An example is human skin.</dd>
 </dl>
