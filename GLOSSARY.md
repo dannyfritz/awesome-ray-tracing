@@ -7,9 +7,9 @@
   <dd>Bidirectional Reflectance Distribution Function</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Bidirectional_scattering_distribution_function">BSDF</a></dt>
   <dd>Bidirectional Scattering Distribution Function</dd>
-  <dt>BSSRDF</dt>
+  <dt><a href="https://en.wikipedia.org/wiki/Bidirectional_scattering_distribution_function#Overview_of_the_BxDF_functions">BSSRDF</a></dt>
   <dd>Bidirectional Scattering-Surface Reflectance Function</dd>
-  <dt>BTDF</dt>
+  <dt><a href="https://en.wikipedia.org/wiki/Bidirectional_scattering_distribution_function#Overview_of_the_BxDF_functions">BTDF</a></dt>
   <dd>Bidirectional Transmittance Distribution Function</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Bidirectional_texture_function">BTF</a></dt>
   <dd>Bidirectional Texture Function</dd>
