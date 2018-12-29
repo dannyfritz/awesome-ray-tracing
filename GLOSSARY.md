@@ -16,7 +16,7 @@
   <dt>BVH</dt>
   <dd>Bounding Volume Hierarchy</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Bounding_volume_hierarchy">Bounding Volume Hierarchy</a></dt>
-  <dd>An data structure that envelopes scene geometry into a tree of volumes.</dd>
+  <dd>A data structure that envelopes scene geometry into a tree of volumes.</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Bidirectional_scattering_distribution_function#Overview_of_the_BxDF_functions">BxDF</a></dt>
   <dd>Bidirectional X (anything) Distribution Function. A catch all term for Bidirectional Distribution Functions.</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Caustic_(optics)">Caustics</a></dt>
