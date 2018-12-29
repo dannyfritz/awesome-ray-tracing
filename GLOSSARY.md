@@ -22,7 +22,7 @@
   <dt><a href="https://en.wikipedia.org/wiki/Caustic_(optics)">Caustics</a></dt>
   <dd>When light transmits through a curved surface such as water ripples or a drinking glass and creates patches of light.</dd>
   <dt>Convergence</dt>
-  <dd>When a scene has rendered to the point noise is not present.</dd>
+  <dd>When a frame has rendered to within an error threshold or bias. Usually to an acceptable level of noise.</dd>
   <dt>GI</dt>
   <dd>Global Illumination</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Global_illumination">Global Illumination</a></dt>
@@ -30,9 +30,9 @@
   <dt><a href="https://en.wikipedia.org/wiki/Lambertian_reflectance">Lambertian</a></dt>
   <dd>A diffuse matte material</dd>
   <dt>Offline</dt>
-  <dd>A rendering method that is not intended for interaction. For example, rendering a frame can take minutes.</dd>
+  <dd>A rendering method that is not intended for interaction. Render times are less important and can take seconds, minutes, hours, or more. Usually very high quality rendering is the goal.</dd>
   <dt>Realtime</dt>
-  <dd>Rendering a scene with interaction in mind. For example, endlessly rendering a frame every 16ms.</dd>
+  <dd>A rendering method that is intended for interaction. Usually requires render times in the milliseconds.</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Path_tracing">Path Tracing</a></dt>
   <dd>A method of rendering that is faithful to global illumination.
   <dt>PBR</dt>
