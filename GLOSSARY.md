@@ -58,5 +58,5 @@
   <dt>SSS</dt>
   <dd>Subsurface Scattering</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Subsurface_scattering">Subsurface Scattering</a></dt>
-  <dd>When light enters a material, scatters, and exits from another point. An example material is human skin, leaves, wax, and milk.</dd>
+  <dd>When light enters a material, scatters, and exits from another point. Example materials requring this method to look realistic are human skin, leaves, wax, and milk.</dd>
 </dl>
