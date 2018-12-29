@@ -77,7 +77,7 @@
 
 ## Reference Scenes
 
-![Cornell Box](https://upload.wikimedia.org/wikipedia/commons/2/24/Cornell_box.png)
+![Cornell Box](https://upload.wikimedia.org/wikipedia/commons/2/24/Cornell_box.png)![Stanford Bunny](https://upload.wikimedia.org/wikipedia/en/a/a7/Stanford_Bunny.png)
 
 - [Benedikt Bitterli](https://benedikt-bitterli.me/resources/)
 - [PBRT Scenes v3](https://www.pbrt.org/scenes-v3.html)
