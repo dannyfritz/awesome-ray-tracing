@@ -10,6 +10,7 @@
 - [Path Tracing](#path-tracing)
 - [Photo Mapping](#photon-mapping)
 - [Sampling Methods](#sampling-methods)
+- [Reference Scenes](#reference-scenes)
 - [API's](#apis)
   - [Nvidia OptiX](#nvidia-optix)
   - [Nvidia RTX](#nvidia-rtx)
@@ -61,6 +62,12 @@
 - [PBRT Chapter 7 - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Sampling_and_Reconstruction.html)
 - [Robust Monte Carlo Methods for Light Transport Simulation - *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
 - [Flavors of Sampling in Ray Tracing  - *Peter Shirley*](http://psgraphics.blogspot.com/2018/10/flavors-of-sampling-in-ray-tracing.html)
+
+## Reference Scenes
+
+- [Benedikt Bitterli](https://benedikt-bitterli.me/resources/)
+- [PBRT Scenes v3](https://www.pbrt.org/scenes-v3.html)
+- [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html)
 
 ## API's
 
