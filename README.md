@@ -7,7 +7,6 @@ PR's welcome!
 
 ## Table of Contents
 
-- [News](#news)
 - [Ray Tracing](#ray-tracing)
 - [Math](#math)
 - [Ray Casting](#ray-casting)
@@ -20,12 +19,9 @@ PR's welcome!
   - [Nvidia OptiX](#nvidia-optix)
   - [Nvidia RTX](#nvidia-rtx)
   - [Microsoft DirectX Raytracing (RTX)](#microsoft-directx-raytracing-dxr)
+- [News](#news)
   
 ---
-
-## News
-
-- [Graphics Programming weekly - *Jendrik Illner*](https://www.jendrikillner.com/post/)
 
 ## Ray Tracing
 
@@ -105,3 +101,7 @@ PR's welcome!
 ### Microsoft DirectX Raytracing (DXR)
 
 - [DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer)
+
+## News
+
+- [Graphics Programming weekly - *Jendrik Illner*](https://www.jendrikillner.com/post/)
