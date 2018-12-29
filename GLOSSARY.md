@@ -58,6 +58,8 @@
   <br>2. Whitted style ray tracing. Cast rays and detect shadow and light rays.
   <br>3. Path tracing.
   </dd>
+  <dt><a href="https://en.wikipedia.org/wiki/Rendering_equation">Rendering Equation</a></dt>
+  <dd>A integral formula that describes a framework of how light interacts with a material.</dd>
   <dt>SSS</dt>
   <dd>Subsurface Scattering</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Subsurface_scattering">Subsurface Scattering</a></dt>
