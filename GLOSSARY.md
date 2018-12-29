@@ -41,7 +41,10 @@
     <br>2. Physically Based Rendering Book
   </dd>
   <dt><a href="https://pbrt.org/">PBRT</a></dt>
-  <dd>Physically Based Rendering Book</dd>
+  <dd>
+    1. Physically Based Rendering Book
+    <br> 2. Physically Based Rendering Code
+  </dd>
   <dt><a href="https://en.wikipedia.org/wiki/Phong_reflection_model">Phong</a></dt>
   <dd>Ambient, diffuse, and specular material</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Ray_casting">Ray Casting</a></dt>
