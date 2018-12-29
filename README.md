@@ -73,6 +73,7 @@ PR's welcome!
 - 📖 [PBRT Chapter 9 Materials - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Materials.html)
 - 📖 [PBRT Chapter 11 Volume Scattering - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Volume_Scattering.html)
 - 📖 [Physically Based Sky, Atmosphere, and Cloud Rendering in Frostbite - (2016) *Sebastien Hillaire*](https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/s2016-pbs-frostbite-sky-clouds-new.pdf)
+- 📖 [Revisiting Physically Based Shading in ImageWorks - (2017) *Christopher Kulla & Alejandro Conty*](https://blog.selfshadow.com/publications/s2017-shading-course/imageworks/s2017_pbs_imageworks_slides.pdf)
 
 ## Path Tracing
 
