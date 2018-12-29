@@ -34,7 +34,7 @@
   <dt>Realtime</dt>
   <dd>Rendering a scene with interaction in mind. For example, endlessly rendering a frame every 16ms.</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Path_tracing">Path Tracing</a></dt>
-  <dd>A method of Ray Tracing that involves recursively casting rays from the camera until a depth is reached or a light source is hit.
+  <dd>A method of rendering that is faithful to global illumination.
   <dt>PBR</dt>
   <dd>
     1. Physically Based Rendering
