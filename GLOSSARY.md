@@ -27,7 +27,7 @@
   <dd>A diffuse matte material</dd>
   <dt>Offline</dt>
   <dd>A rendering method that is not intended for interaction. For example, rendering a frame can take minutes.</dd>
-  <dt>Realtime Rendering</dt>
+  <dt>Realtime</dt>
   <dd>Rendering a scene with interaction in mind. For example, endlessly rendering a frame every 16ms.</dd>
   <dt>Path Tracing</dt>
   <dd>A method of Ray Tracing that involves recursively casting rays from the camera until a depth is reached or a light source is hit.
