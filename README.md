@@ -20,6 +20,7 @@ PR's welcome!
   - [Nvidia RTX](#nvidia-rtx)
   - [Microsoft DirectX Raytracing (RTX)](#microsoft-directx-raytracing-dxr)
   - [Nvidia OptiX](#nvidia-optix)
+- [Glossary of Terms](GLOSSARY.md)
   
 ---
 
@@ -114,3 +115,5 @@ PR's welcome!
 ### Nvidia OptiX
 
 - [OptiX QuickStart - *Nvidia*](https://docs.nvidia.com/gameworks/content/gameworkslibrary/optix/optix_quickstart.htm)
+
+## [Glossary of Terms](GLOSSARY.md)
