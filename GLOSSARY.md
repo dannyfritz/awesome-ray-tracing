@@ -9,10 +9,10 @@
   <dd>Bidirectional Scattering Distribution Function</dd>
   <dt>BSSRDF</dt>
   <dd>Bidirectional Scattering-Surface Reflectance Function</dd>
-  <dt>BTF</dt>
-  <dd>Bidirectional Texture Function</dd>
   <dt>BTDF</dt>
   <dd>Bidirectional Transmittance Distribution Function</dd>
+  <dt>BTF</dt>
+  <dd>Bidirectional Texture Function</dd>
   <dt>BVH</dt>
   <dd>Bounding Volume Hierarchy</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Bounding_volume_hierarchy">Bounding Volume Hierarchy</a></dt>
