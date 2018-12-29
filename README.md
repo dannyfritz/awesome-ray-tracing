@@ -34,7 +34,7 @@
 
 - [Photon Mapping - *Zack Waters*](https://web.cs.wpi.edu/~emmanuel/courses/cs563/write_ups/zackw/photon_mapping/PhotonMapping.html)
 
-## Stochastic Methods
+## Sampling Methods
 
 - [Robust Monte Carlo Methods for Light Transport Simulation - *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
 - [Flavors of Sampling in Ray Tracing  - *Peter Shirley*](http://psgraphics.blogspot.com/2018/10/flavors-of-sampling-in-ray-tracing.html)
