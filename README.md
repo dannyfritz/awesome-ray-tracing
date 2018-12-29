@@ -6,7 +6,7 @@
 - [Ray Tracing](#ray-tracing)
 - [Math](#math)
 - [Ray Casting](#ray-casting)
-- [BRDF, BSSDF, BTDF, and BRDF](#brdf-bssdf=btdff-and-brdf)
+- [BRDF, BSSDF, BTDF, and BRDF](#brdf-bssdf-btdf-and-brdf)
 - [Path Tracing](#path-tracing)
 - [Photo Mapping](#photon-mapping)
 - [Sampling Methods](#sampling-methods)
