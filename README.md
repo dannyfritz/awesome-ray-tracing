@@ -7,8 +7,8 @@ PR's welcome!
 
 ## Table of Contents
 
-- [Ray Tracing](#ray-tracing)
 - [Glossary of Terms](GLOSSARY.md)
+- [Ray Tracing](#ray-tracing)
 - [Math](#math)
 - [Ray Casting](#ray-casting)
 - [BxDF](#bxdf)
@@ -31,6 +31,8 @@ PR's welcome!
 | 💾 | Code / Asset |
 
 ---
+
+## [Glossary of Terms](GLOSSARY.md)
 
 ## Ray Tracing
 
@@ -56,8 +58,9 @@ PR's welcome!
 - 📖 [Daily Path Tracer - (2018) *Aras Pranckevičius*](http://aras-p.info/blog/2018/03/28/Daily-Pathtracer-Part-0-Intro/)
 - 📖 [Microfacet-based Normal Mapping for Robust Monte Carlo Path Tracing - (2018) *Vincent Schüssler, Eric Heitz, Johannes Hanika, Carsten Dachsbacher*](https://jo.dreggn.org/home/2017_normalmap.pdf)
 
+## Photon Mapping
 
-## [Glossary of Terms](GLOSSARY.md)
+- 📖 [Photon Mapping - *Zack Waters*](https://web.cs.wpi.edu/~emmanuel/courses/cs563/write_ups/zackw/photon_mapping/PhotonMapping.html)
 
 ## Math
 
@@ -90,10 +93,6 @@ PR's welcome!
   - 📖 [A Multifaceted Explanation Part 2 - (2018) *Stephen Hill*](https://blog.selfshadow.com/2018/06/04/multi-faceted-part-2/)
   - 📖 [A Multifaceted Explanation Part 3 - (2018) *Stephen Hill*](https://blog.selfshadow.com/2018/08/05/multi-faceted-part-3/)
   
-## Photon Mapping
-
-- 📖 [Photon Mapping - *Zack Waters*](https://web.cs.wpi.edu/~emmanuel/courses/cs563/write_ups/zackw/photon_mapping/PhotonMapping.html)
-
 ## Sampling Methods
 
 ![Hammersley Set](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hammersley_set_2D.svg/289px-Hammersley_set_2D.svg.png)
