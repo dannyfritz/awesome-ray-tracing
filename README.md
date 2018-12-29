@@ -11,7 +11,7 @@ PR's welcome!
 - [Glossary of Terms](GLOSSARY.md)
 - [Math](#math)
 - [Ray Casting](#ray-casting)
-- [BXDF](#bxdf)
+- [BxDF](#bxdf)
 - [Path Tracing](#path-tracing)
 - [Photon Mapping](#photon-mapping)
 - [Sampling Methods](#sampling-methods)
