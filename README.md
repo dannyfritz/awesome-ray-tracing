@@ -135,7 +135,7 @@ PR's welcome!
 
 - [Nvidia RTX](https://developer.nvidia.com/rtx)
 - [Microsoft DirectX Raytracing (DXR)](https://blogs.msdn.microsoft.com/directx/2018/03/19/announcing-microsoft-directx-raytracing/)
-- [Nvidia Optix](https://developer.nvidia.com/optix)
+- [Nvidia OptiX](https://developer.nvidia.com/optix)
 - [AMD Radeon-Rays](www.realtimerendering.com/raytracing.html)
 - [Intel Embree](http://embree.github.io/)
 
