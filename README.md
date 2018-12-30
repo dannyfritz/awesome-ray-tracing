@@ -59,7 +59,7 @@ PR's welcome!
 - 📖 [Path Tracing Coherency - *Anders Lindqvist*](https://www.breakin.se/learn/pathtracing-coherency.html)
 - 📖 [Path Traced Depth of Field and Bokeh - (2018) *Alan Wolfe*](https://blog.demofox.org/2018/07/04/pathtraced-depth-of-field-bokeh/)
 - 📖 [Daily Path Tracer - (2018) *Aras Pranckevičius*](http://aras-p.info/blog/2018/03/28/Daily-Pathtracer-Part-0-Intro/)
-- 📖 [Microfacet-based Normal Mapping for Robust Monte Carlo Path Tracing - (2018) *Vincent Schüssler, Eric Heitz, Johannes Hanika, Carsten Dachsbacher*](https://jo.dreggn.org/home/2017_normalmap.pdf)
+- 📖 [Microfacet-based Normal Mapping for Robust Monte Carlo Path Tracing - (2017) *Vincent Schüssler, Eric Heitz, Johannes Hanika, Carsten Dachsbacher*](https://jo.dreggn.org/home/2017_normalmap.pdf)
 
 ## Photon Mapping
 
