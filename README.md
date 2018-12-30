@@ -72,7 +72,6 @@ PR's welcome!
 - 📖 [PBRT Chapter 2 Geometry and Transformations - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Geometry_and_Transformations.html)
 - 📖 [PBRT Chapter 3 Shapes - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Shapes.html)
 - 📺 [Linear Algebra - *Khan Academy*](https://www.khanacademy.org/math/linear-algebra)
-- 📖 [Generating Random Points in a Sphere - (2018) *Karthik Karanth*](https://karthikkaranth.me/blog/generating-random-points-in-a-sphere/)
 
 ## Ray Casting
 
@@ -102,6 +101,7 @@ PR's welcome!
 ![Hammersley Set](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hammersley_set_2D.svg/289px-Hammersley_set_2D.svg.png)
 
 - 📖 [PBRT Chapter 7 - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Sampling_and_Reconstruction.html)
+- 📖 [Generating Random Points in a Sphere - (2018) *Karthik Karanth*](https://karthikkaranth.me/blog/generating-random-points-in-a-sphere/)
 - 📖 [Robust Monte Carlo Methods Chapters 2, 9, & 11 - (1998) *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
 - 📖 [Flavors of Sampling in Ray Tracing  - (2018) *Peter Shirley*](http://psgraphics.blogspot.com/2018/10/flavors-of-sampling-in-ray-tracing.html)
 - 📖 [Position-Free Monte Carlo Simulation for Arbitrary Layered BSDFs - (2018) *Yu Guo, Miloš Hašan, Shuang Zhao*](https://shuangz.com/projects/layered-sa18/)
