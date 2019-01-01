@@ -59,11 +59,11 @@
   <br>3. Path tracing.
   </dd>
   <dt><a href="https://en.wikipedia.org/wiki/Rendering_equation">Rendering Equation</a></dt>
-  <dd>A integral formula that describes a framework of how light interacts with a material along a path between observer and light source.</dd>
+  <dd>An integral formula that describes a framework of how light interacts with a material while conserving the light entering and leaving.</dd>
   <dt>SSS</dt>
   <dd>Subsurface Scattering</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Subsurface_scattering">Subsurface Scattering</a></dt>
-  <dd>When light enters a material, scatters, and exits from another point. Example materials requring this method to look realistic are human skin, leaves, wax, and milk.</dd>
+  <dd>When light enters a material, scatters, and exits from another point. Example materials requiring this method to look realistic are human skin, leaves, wax, and milk.</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Stochastic#Computer_science">Stochastic Sampling</a></dt>
   <dd>A random subset. Can be used to reduce the total of rays needed to converge a render.</dd>
 </dl>
