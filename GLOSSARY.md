@@ -29,6 +29,8 @@
   <dd>A method of realistic lighting. Light bounces off of objects and is not only direct lighting.</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Lambertian_reflectance">Lambertian</a></dt>
   <dd>A diffuse matte material</dd>
+  <dt>MC</dt>
+  <dd>Monte Carlo</dd>
   <dt>Offline</dt>
   <dd>A rendering method that is not intended for interaction. Render times are less important and can take seconds, minutes, hours, or more. Usually very high quality rendering is the goal.</dd>
   <dt>Realtime</dt>
