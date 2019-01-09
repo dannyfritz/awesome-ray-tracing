@@ -15,6 +15,7 @@ PR's welcome!
 - [Ray Casting](#ray-casting)
 - [BxDF](#bxdf)
 - [Sampling Methods](#sampling-methods)
+- [Denoising, Filtering, and Reconstruction](#denoising-filtering-and-reconstruction)
 - [Realtime](#realtime)
 - [Reference Scenes](#reference-scenes)
 - [News](#news)
@@ -113,6 +114,12 @@ PR's welcome!
 - 📖 [Double Hierarchies for Directional Importance Sampling in Monte Carlo Rendering - (2018) *Norbert Bus and Tamy Boubekeur*](http://www.jcgt.org/published/0006/03/02/)
 - 📖 [Importance Sampling of Many Lights with Adaptive Tree Splitting - (2018) *Alejandro Conty and Christopher Kulla*](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxja3VsbGF8Z3g6NWM0NmU2YWVlNjE3ODk1Yw)
 - 📖 [Monte Carlo Methods for Volumetric Light Transport Simulation - (2018) *Jan Novák, Iliyan Georgiev, Johannes Hanika, and Wojciech Jarosz*](http://iliyan.com/publications/VolumeSTAR)
+
+## Denoising, Filtering, and Reconstruction
+
+- 📺 [RTX Coffee Break: Ray Tracing and Denoising  - (2018) *Edward Lu*](https://news.developer.nvidia.com/rtx-coffee-break-ray-tracing-and-denoising/)
+- 📖 [Spatiotemporal Variance-Guided Filtering: Real-Time Reconstruction for Path-Traced Global Illumination - (2017) *Christoph Schied, Anton Kaplanyan, Chris Wyman, Anjul Patney, Chakravarty R. Alla Chaitanya, John Burgess, Shiqiu Liu, Carsten Dachsbacher, Aaron Lefohn, Marco Salvi*](http://cg.ivd.kit.edu/svgf.php)
+- 📖 [Multidimensional Adaptive Sampling and Reconstruction for Ray Tracing - (2008) *Toshiya Hachisuka, Wojciech Jarosz, Richard Peter Weistroffer, Kevin Dale, Greg Humphreys, Matthias Zwicker, and Henrik Wann Jensen*](http://graphics.ucsd.edu/~henrik/papers/multidimensional_adaptive_sampling/)
 
 ## Realtime
 
