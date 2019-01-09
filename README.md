@@ -47,7 +47,7 @@ PR's welcome!
 
 ## Canonical Ray Tracing
 
-- 📖 [some Techniques for Shading Machine Renderings of Solids - (1968) *Arthur Appel*](http://graphics.stanford.edu/courses/Appel.pdf)
+- 📖 [Some Techniques for Shading Machine Renderings of Solids - (1968) *Arthur Appel*](http://graphics.stanford.edu/courses/Appel.pdf)
 - 📖 [An Improved Illumination Model for Shaded Display - (1979) * J.D. Foley and Turner Whitted*](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.156.1534)
 - 📖 [The Rendering Equation - (1986) *James T. Kajiya*](http://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/IA725/ia725-12010/kajiya-SIG86-p143.pdf)
 - 📖 [Robust Monte Carlo Methods for Light Transport Simulation (1998) - *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
