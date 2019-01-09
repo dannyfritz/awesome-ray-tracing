@@ -8,7 +8,8 @@ PR's welcome!
 ## Table of Contents
 
 - [Glossary of Terms](GLOSSARY.md)
-- [Ray Tracing](#ray-tracing)
+- [What is Ray Tracing?](#what-is-ray-tracing)
+- [Canonical Ray Tracing](#canonical-ray-tracing)
 - [Path Tracing](#path-tracing)
 - [Photon Mapping](#photon-mapping)
 - [Math](#math)
