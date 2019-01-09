@@ -85,6 +85,8 @@ PR's welcome!
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Ray_triangle.png" height="150"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Example_of_bounding_volume_hierarchy.svg/320px-Example_of_bounding_volume_hierarchy.svg.png" height="150">
 
 - 📖 [Ray-Triangle Intersection: Geometric Solution - *Scratchapixel*](https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/ray-triangle-intersection-geometric-solution)
+- 📖 [Realtime Rendering Object/Object Intersection Page - (2019) *Eric Haines*](http://www.realtimerendering.com/intersections.html)
+- 📖 [ERIT: A Collection of Efficient and Reliable Intersection Tests - () *Martin Held*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.9172&rep=rep1&type=pdf)
 - 📖 [Introduction to Acceleration Structures - *Scratchapixel*](https://www.scratchapixel.com/lessons/advanced-rendering/introduction-acceleration-structure/bounding-volume)
 - 📖 [PBRT Chater 4 Primitives and Intersection Acceleration - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Primitives_and_Intersection_Acceleration.html)
 - 📺 [How to Make 3D Fractals](https://www.youtube.com/watch?v=svLzmFuSBhk)
