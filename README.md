@@ -3,7 +3,7 @@
 A curated list of ray tracing resources.
 PR's welcome!
 
-![Ray Trace Spheres](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Recursive_raytrace_of_a_sphere.png/240px-Recursive_raytrace_of_a_sphere.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Recursive_raytrace_of_a_sphere.png/240px-Recursive_raytrace_of_a_sphere.png" height="200"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glasses_800_edit.png/320px-Glasses_800_edit.png" height="200"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ray-traced_steel_balls.jpg/320px-Ray-traced_steel_balls.jpg" height="200">
 
 ## Table of Contents
 
