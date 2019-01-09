@@ -9,7 +9,7 @@ PR's welcome!
 
 - [Glossary of Terms](GLOSSARY.md)
 - [What is Ray Tracing?](#what-is-ray-tracing)
-- [Canonical Ray Tracing](#canonical-ray-tracing)
+- [Iconic Papers](#iconic-papers)
 - [Path Tracing](#path-tracing)
 - [Photon Mapping](#photon-mapping)
 - [Math](#math)
@@ -46,7 +46,7 @@ PR's welcome!
 - 📖 [Ray Tracing Resources Page - (2018) *Tomas Akenine-Möller, Eric Haines, Naty Hoffman, Angelo Pesce, Michał Iwanicki, and Sébastien Hillaire*](http://www.realtimerendering.com/raytracing.html)
 - 📺 [Rendering / Ray Tracing Course - (2017) *TU Wien*](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
-## Canonical Ray Tracing
+## Iconic Papers
 
 - 📖 [Some Techniques for Shading Machine Renderings of Solids - (1968) *Arthur Appel*](http://graphics.stanford.edu/courses/Appel.pdf)
 - 📖 [An Improved Illumination Model for Shaded Display - (1979) * J.D. Foley and Turner Whitted*](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.156.1534)
