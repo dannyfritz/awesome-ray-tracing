@@ -38,7 +38,7 @@ PR's welcome!
 
 ## Ray Tracing
 
-![Whitted Ray Tracing Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ray_trace_diagram.svg/320px-Ray_trace_diagram.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ray_trace_diagram.svg/320px-Ray_trace_diagram.svg.png" height="200">
 
 - 📖 [What’s the Difference Between Ray Tracing and Rasterization? - (2018) *Brian Caulfield*](https://blogs.nvidia.com/blog/2018/03/19/whats-difference-between-ray-tracing-rasterization/)
 - 📺 [Rendering / Ray Tracing Course - (2017) *TU Wien*](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
@@ -68,7 +68,7 @@ PR's welcome!
 
 ## Math
 
-![Dot Product](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Inner-product-angle.svg/320px-Inner-product-angle.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Inner-product-angle.svg/320px-Inner-product-angle.svg.png" height="200">
 
 - 📖 [PBRT Chapter 2 Geometry and Transformations - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Geometry_and_Transformations.html)
 - 📖 [PBRT Chapter 3 Shapes - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Shapes.html)
@@ -76,7 +76,7 @@ PR's welcome!
 
 ## Ray Casting
 
-![Ray Triangle Intersection](https://upload.wikimedia.org/wikipedia/commons/6/6c/Ray_triangle.png)![BVH](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Example_of_bounding_volume_hierarchy.svg/320px-Example_of_bounding_volume_hierarchy.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Ray_triangle.png" height="150"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Example_of_bounding_volume_hierarchy.svg/320px-Example_of_bounding_volume_hierarchy.svg.png" height="150">
 
 - 📖 [Ray-Triangle Intersection: Geometric Solution - *Scratchapixel*](https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/ray-triangle-intersection-geometric-solution)
 - 📖 [Introduction to Acceleration Structures - *Scratchapixel*](https://www.scratchapixel.com/lessons/advanced-rendering/introduction-acceleration-structure/bounding-volume)
@@ -85,7 +85,7 @@ PR's welcome!
 
 ## BxDF
 
-![BRDF](https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/BSDF05_800.png/179px-BSDF05_800.png)
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/BSDF05_800.png/179px-BSDF05_800.png" height="200">
 
 - 📖 [PBRT Chapter 5.6 Surface Reflection - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Color_and_Radiometry/Surface_Reflection.html)
 - 📖 [PBRT Chapter 8 Reflection Models - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Reflection_Models.html)
@@ -100,7 +100,7 @@ PR's welcome!
   
 ## Sampling Methods
 
-![Hammersley Set](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hammersley_set_2D.svg/289px-Hammersley_set_2D.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hammersley_set_2D.svg/289px-Hammersley_set_2D.svg.png" height="200">
 
 - 📖 [PBRT Chapter 7 - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Sampling_and_Reconstruction.html)
 - 📖 [Generating Random Points in a Sphere - (2018) *Karthik Karanth*](https://karthikkaranth.me/blog/generating-random-points-in-a-sphere/)
@@ -117,6 +117,8 @@ PR's welcome!
 
 ## Denoising, Filtering, and Reconstruction
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Noise_salt_and_pepper.png" height="200">
+
 - 📺 [RTX Coffee Break: Ray Tracing and Denoising  - (2018) *Edward Lu*](https://news.developer.nvidia.com/rtx-coffee-break-ray-tracing-and-denoising/)
 - 📖 [Spatiotemporal Variance-Guided Filtering: Real-Time Reconstruction for Path-Traced Global Illumination - (2017) *Christoph Schied, Anton Kaplanyan, Chris Wyman, Anjul Patney, Chakravarty R. Alla Chaitanya, John Burgess, Shiqiu Liu, Carsten Dachsbacher, Aaron Lefohn, Marco Salvi*](http://cg.ivd.kit.edu/svgf.php)
 - 📖 [Multidimensional Adaptive Sampling and Reconstruction for Ray Tracing - (2008) *Toshiya Hachisuka, Wojciech Jarosz, Richard Peter Weistroffer, Kevin Dale, Greg Humphreys, Matthias Zwicker, and Henrik Wann Jensen*](http://graphics.ucsd.edu/~henrik/papers/multidimensional_adaptive_sampling/)
@@ -131,7 +133,7 @@ PR's welcome!
 
 ## Reference Scenes
 
-![Cornell Box](https://upload.wikimedia.org/wikipedia/commons/2/24/Cornell_box.png)![Stanford Bunny](https://upload.wikimedia.org/wikipedia/en/a/a7/Stanford_Bunny.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Cornell_box.png" height="200"><img src="https://upload.wikimedia.org/wikipedia/en/a/a7/Stanford_Bunny.png" height="200">
 
 - 💾 [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html)
 - 💾 [Benedikt Bitterli](https://benedikt-bitterli.me/resources/)
