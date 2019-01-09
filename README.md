@@ -3,7 +3,7 @@
 A curated list of ray tracing resources.
 PR's welcome!
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Recursive_raytrace_of_a_sphere.png/240px-Recursive_raytrace_of_a_sphere.png" height="200"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glasses_800_edit.png/320px-Glasses_800_edit.png" height="200"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ray-traced_steel_balls.jpg/320px-Ray-traced_steel_balls.jpg" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Recursive_raytrace_of_a_sphere.png/240px-Recursive_raytrace_of_a_sphere.png" height="200"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glasses_800_edit.png/320px-Glasses_800_edit.png" height="200"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ray-traced_steel_balls.jpg/320px-Ray-traced_steel_balls.jpg" height="200"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Global_illumination.JPG" height="200"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Alexexterior2.jpg" height="200"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Path_tracing_001.png/240px-Path_tracing_001.png" height="200"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Glass_ochem.png/640px-Glass_ochem.png" height="200"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Glas-1000-enery.jpg/320px-Glas-1000-enery.jpg" height="200">
 
 ## Table of Contents
 
