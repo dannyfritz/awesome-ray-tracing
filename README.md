@@ -119,7 +119,8 @@ PR's welcome!
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Noise_salt_and_pepper.png" height="200">
 
-- 📺 [RTX Coffee Break: Ray Tracing and Denoising  - (2018) *Edward Lu*](https://news.developer.nvidia.com/rtx-coffee-break-ray-tracing-and-denoising/)
+- 📺 [RTX Coffee Break: Ray Tracing and Denoising - (2018) *Edward Lu*](https://news.developer.nvidia.com/rtx-coffee-break-ray-tracing-and-denoising/)
+- 📺 [RTX Coffee Break: Ray Traced Reflections and Denoising - (2018) *Edward Lu*](https://news.developer.nvidia.com/rtx-coffee-break-ray-traced-reflections-and-denoising-952-minutes/)
 - 📖 [Spatiotemporal Variance-Guided Filtering: Real-Time Reconstruction for Path-Traced Global Illumination - (2017) *Christoph Schied, Anton Kaplanyan, Chris Wyman, Anjul Patney, Chakravarty R. Alla Chaitanya, John Burgess, Shiqiu Liu, Carsten Dachsbacher, Aaron Lefohn, Marco Salvi*](http://cg.ivd.kit.edu/svgf.php)
 - 📖 [Multidimensional Adaptive Sampling and Reconstruction for Ray Tracing - (2008) *Toshiya Hachisuka, Wojciech Jarosz, Richard Peter Weistroffer, Kevin Dale, Greg Humphreys, Matthias Zwicker, and Henrik Wann Jensen*](http://graphics.ucsd.edu/~henrik/papers/multidimensional_adaptive_sampling/)
 
