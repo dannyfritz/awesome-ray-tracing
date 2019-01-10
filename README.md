@@ -135,7 +135,7 @@ PR's welcome!
 ## Realtime
 
 - 📖 [Real-Time Rendering Chapter - (2018) *Tomas Akenine-Möller, Eric Haines, Naty Hoffman, Angelo Pesce, Michał Iwanicki, and Sébastien Hillaire*](http://www.realtimerendering.com/Real-Time_Rendering_4th-Real-Time_Ray_Tracing.pdf)
-- 📺 [Real-Time Raytracing for Interactive Global Illumination Workflows in Frostbite - (2018) *Sébastien Hillaire*](https://www.youtube.com/watch?v=rhlGBCSv02M)
+- 📺 [Real-Time Raytracing for Interactive Global Illumination Workflows in Frostbite - (2018) *Sébastien Hillaire*](https://www.youtube.com/embed/rhlGBCSv02M?start=0&end=1305)
 - 📖 [Real-Time Ray Tracing of Correct* Soft Shadows - (2018) *Stephen Hill and Morgan McGuire*](http://advances.realtimerendering.com/s2018/s2018_real_time_correct_soft_shadows.pdf)
 - 📺 [Stochastic All the Things: Raytracing in Hybrid Real-Time Rendering - (2018) *Tomasz Stachowiak*](https://www.ea.com/seed/news/seed-dd18-presentation-slides-raytracing)
 - 📖 [Adopting Lessons From Offline Ray-Tracing to Real-Time Ray-Tracing for Practical Pipelines - (2018) *Matt Pharr*](http://advances.realtimerendering.com/s2018/Pharr%20-%20Advances%20in%20RTR%20-%20Real-time%20Ray%20Tracing.pdf)
