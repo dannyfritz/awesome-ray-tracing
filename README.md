@@ -45,6 +45,7 @@ PR's welcome!
 - 📖 [What’s the Difference Between Ray Tracing and Rasterization? - (2018) *Brian Caulfield*](https://blogs.nvidia.com/blog/2018/03/19/whats-difference-between-ray-tracing-rasterization/)
 - 📖 [Ray Tracing Resources Page - (2018) *Tomas Akenine-Möller, Eric Haines, Naty Hoffman, Angelo Pesce, Michał Iwanicki, and Sébastien Hillaire*](http://www.realtimerendering.com/raytracing.html)
 - 📺 [An Explanation of the Rendering Equation - (2019) *Eric Arnebäck*](https://www.youtube.com/watch?v=eo_MTI-d28s)
+- 📺 [Ray Marching for Dummies! - (2018) *Martijn Steinrucken*](https://www.youtube.com/watch?v=PGtv-dBi2wE)
 - 📺 [Rendering / Ray Tracing Course - (2017) *TU Wien*](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
 ## Iconic Publications
