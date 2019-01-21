@@ -44,6 +44,11 @@ PR's welcome!
 - 📺 [Disney's Practical Guide to Path Tracing - (2016) *Disney*](https://youtu.be/frLwRLS_ZR0)
 - 📖 [What’s the Difference Between Ray Tracing and Rasterization? - (2018) *Brian Caulfield*](https://blogs.nvidia.com/blog/2018/03/19/whats-difference-between-ray-tracing-rasterization/)
 - 📖 [Ray Tracing Resources Page - (2018) *Tomas Akenine-Möller, Eric Haines, Naty Hoffman, Angelo Pesce, Michał Iwanicki, and Sébastien Hillaire*](http://www.realtimerendering.com/raytracing.html)
+- 📖 [An Introduction to Ray Tracing - (1991) *Andrew Glassner*](http://www.realtimerendering.com/raytracing/An-Introduction-to-Ray-Tracing-The-Morgan-Kaufmann-Series-in-Computer-Graphics-.pdf)
+- 📖 [Physically Based Rendering Book (PBRT) - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/)
+- 📖 [Ray Tracing in One Weekend - (2016) *Peter Shirley*](http://in1weekend.blogspot.com/2016/01/ray-tracing-in-one-weekend.html)
+  - 📖 [Ray Tracing: The Next Week - (2016) *Peter Shirley*](http://in1weekend.blogspot.com/2016/01/ray-tracing-second-weekend.html)
+  - 📖 [Ray Tracing: The Rest of Your Life - (2016) *Peter Shirley*](http://in1weekend.blogspot.com/2016/03/ray-tracing-rest-of-your-life.html)
 - 📺 [An Explanation of the Rendering Equation - (2019) *Eric Arnebäck*](https://www.youtube.com/watch?v=eo_MTI-d28s)
 - 📺 [Ray Marching for Dummies! - (2018) *Martijn Steinrucken*](https://www.youtube.com/watch?v=PGtv-dBi2wE)
 - 📺 [Rendering / Ray Tracing Course - (2017) *TU Wien*](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
@@ -55,15 +60,11 @@ PR's welcome!
 - 📖 [The Rendering Equation - (1986) *James T. Kajiya*](http://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/IA725/ia725-12010/kajiya-SIG86-p143.pdf)
 - 📖 [Robust Monte Carlo Methods for Light Transport Simulation (1998) - *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
 - 📖 [Global Illumination Compendium - (2003) *Philip Dutré*](https://people.cs.kuleuven.be/~philip.dutre/GI/TotalCompendium.pdf)
-- 📖 [Physically Based Rendering Book (PBRT) - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/)
 
 
 ## Path Tracing
 
 - 📖 [Path Tracing - (2017) *Fabio Pellacini and Steve Marschner*](http://pellacini.di.uniroma1.it/teaching/graphics17b/lectures/12_pathtracing.pdf)
-- 📖 [Ray Tracing in One Weekend - (2016) *Peter Shirley*](http://in1weekend.blogspot.com/2016/01/ray-tracing-in-one-weekend.html)
-  - 📖 [Ray Tracing: The Next Week - (2016) *Peter Shirley*](http://in1weekend.blogspot.com/2016/01/ray-tracing-second-weekend.html)
-  - 📖 [Ray Tracing: The Rest of Your Life - (2016) *Peter Shirley*](http://in1weekend.blogspot.com/2016/03/ray-tracing-rest-of-your-life.html)
 - 📖 [Path Tracing in Production - (2018) *Luca Fascione, Johannes Hanika, Rob Pieké, Ryusuke Villemin, Christophe Hery, Manuel Gamito, Luke Emrose, and André Mazzone*](https://jo.dreggn.org/path-tracing-in-production/2018/index.html)
 - 📖 [Path Tracing Coherency - *Anders Lindqvist*](https://www.breakin.se/learn/pathtracing-coherency.html)
 - 📖 [Path Traced Depth of Field and Bokeh - (2018) *Alan Wolfe*](https://blog.demofox.org/2018/07/04/pathtraced-depth-of-field-bokeh/)
