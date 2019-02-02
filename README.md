@@ -168,6 +168,7 @@ PR's welcome!
 
 ### Nvidia RTX
 
+- 📖 [NVIDIA Vulkan Ray Tracing Tutorial - (2018) *NVidia*](https://developer.nvidia.com/rtx/raytracing/vkray)
 - 📖 [Introduction to Real-Time Ray Tracing with Vulkan - (2018) *Nuno Subtil*](https://devblogs.nvidia.com/vulkan-raytracing/)
 - 📖 [Vulkan Raytracing Tutorials - (2018) *iOrange*](https://iorange.github.io/p02/TeapotAndBunny.html)
 - 📺 [Video Series: Practical Real-Time Ray Tracing With RTX - (2018) *Nvidia*](https://devblogs.nvidia.com/practical-real-time-ray-tracing-rtx/)
