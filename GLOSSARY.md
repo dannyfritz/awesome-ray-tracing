@@ -54,6 +54,8 @@
   1. A method of rendering that casts primary rays and returns a color.
   <br>2. Sending a ray into a scene and intersecting with geometry.
   </dd>
+  <dt>Ray Marching</dt>
+  <dd>A technique of ray tracing that finds the nearest intersection with a distance functon by iterating along a ray until the distance is within an epsilon.</dd>
   <dt><a href="https://en.wikipedia.org/wiki/Ray_tracing_(graphics)">Ray Tracing</a></dt>
   <dd>
   1. A method of rendering that casts rays into a scene.
