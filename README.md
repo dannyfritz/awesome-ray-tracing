@@ -92,6 +92,7 @@ PR's welcome!
 - 📖 [ERIT: A Collection of Efficient and Reliable Intersection Tests - (1998) *Martin Held*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.9172&rep=rep1&type=pdf)
 - 📖 [Introduction to Acceleration Structures - *Scratchapixel*](https://www.scratchapixel.com/lessons/advanced-rendering/introduction-acceleration-structure/bounding-volume)
 - 📖 [PBRT Chater 4 Primitives and Intersection Acceleration - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Primitives_and_Intersection_Acceleration.html)
+- 📖 [Dynamic BVH - (2019) *Erin Catto*](http://box2d.org/files/GDC2019/ErinCatto_DynamicBVH_Full.pdf)
 - 📺 [How to Make 3D Fractals](https://www.youtube.com/watch?v=svLzmFuSBhk)
 
 ## BxDF
