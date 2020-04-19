@@ -21,6 +21,7 @@ PR's welcome!
 - [Reference Scenes](#reference-scenes)
 - [News](#news)
 - [API's](#apis)
+  - [Vulkan Ray Tracing](#vulkan-ray-tracing)
   - [Nvidia RTX](#nvidia-rtx)
   - [Microsoft DirectX Raytracing (RTX)](#microsoft-directx-raytracing-dxr)
   - [Nvidia OptiX](#nvidia-optix)
@@ -162,11 +163,16 @@ PR's welcome!
 
 ## API's
 
+- [Vulkan Ray Tracing](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/man/html/VK_KHR_ray_tracing.html)
 - [Nvidia RTX](https://developer.nvidia.com/rtx)
 - [Microsoft DirectX Raytracing (DXR)](https://blogs.msdn.microsoft.com/directx/2018/03/19/announcing-microsoft-directx-raytracing/)
 - [Nvidia OptiX](https://developer.nvidia.com/optix)
 - [AMD Radeon-Rays](www.realtimerendering.com/raytracing.html)
 - [Intel Embree](http://embree.github.io/)
+
+### Vulkan Ray Tracing
+
+- 📖 [Ray Tracing In Vulkan - (2020) *Khronos*](https://www.khronos.org/blog/ray-tracing-in-vulkan)
 
 ### Nvidia RTX
 
