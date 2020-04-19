@@ -83,6 +83,7 @@ PR's welcome!
 
 - 📖 [PBRT Chapter 2 Geometry and Transformations - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Geometry_and_Transformations.html)
 - 📖 [PBRT Chapter 3 Shapes - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Shapes.html)
+- 📖 [Immersive Math - Linear Algebra - (2015) *J. Ström, K. Åström, and T. Akenine-Möller*](http://immersivemath.com/ila/index.html)
 - 📺 [Linear Algebra - *Khan Academy*](https://www.khanacademy.org/math/linear-algebra)
 
 ## Ray Casting
