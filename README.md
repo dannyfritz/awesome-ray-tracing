@@ -148,7 +148,7 @@ PR's welcome!
 - 📺 [Stochastic All the Things: Raytracing in Hybrid Real-Time Rendering - (2018) *Tomasz Stachowiak*](https://www.ea.com/seed/news/seed-dd18-presentation-slides-raytracing)
 - 📖 [Adopting Lessons From Offline Ray-Tracing to Real-Time Ray-Tracing for Practical Pipelines - (2018) *Matt Pharr*](http://advances.realtimerendering.com/s2018/Pharr%20-%20Advances%20in%20RTR%20-%20Real-time%20Ray%20Tracing.pdf)
 - 📖 [Game Ray Tracing: State-of-the-Art and Open Problems - (2018) *Colin Barré Brisebois*](https://www.ea.com/seed/news/hpg-2018-keynote)
-- 📺 [Sol-R, an Open-Source CUDA/OpenCL Speed Of Light Ray-tracer](https://github.com/favreau/Sol-R)
+- 💾 [Sol-R, an Open-Source CUDA/OpenCL Speed Of Light Ray-tracer](https://github.com/favreau/Sol-R)
 
 ## Reference Scenes
 
