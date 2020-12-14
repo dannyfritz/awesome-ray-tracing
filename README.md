@@ -170,7 +170,7 @@ PR's welcome!
 - [Nvidia RTX](https://developer.nvidia.com/rtx)
 - [Microsoft DirectX Raytracing (DXR)](https://blogs.msdn.microsoft.com/directx/2018/03/19/announcing-microsoft-directx-raytracing/)
 - [Nvidia OptiX](https://developer.nvidia.com/optix)
-- [AMD Radeon-Rays](www.realtimerendering.com/raytracing.html)
+- [AMD Radeon-Rays](https://gpuopen.com/radeon-rays/)
 - [Intel Embree](http://embree.github.io/)
 
 ### Vulkan Ray Tracing
