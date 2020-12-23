@@ -152,7 +152,7 @@ PR's welcome!
 
 ## Reference Scenes
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Cornell_box.png" height="200"><img src="https://upload.wikimedia.org/wikipedia/en/a/a7/Stanford_Bunny.png" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Cornell_box.png" height="200"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stanford_Bunny.stl/320px-Stanford_Bunny.stl.png" height="200">
 
 - 💾 [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html)
 - 💾 [Benedikt Bitterli](https://benedikt-bitterli.me/resources/)
