@@ -166,7 +166,7 @@ PR's welcome!
 
 ## API's
 
-- [Vulkan Ray Tracing](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/man/html/VK_KHR_ray_tracing.html)
+- [Vulkan Ray Tracing](https://www.khronos.org/blog/ray-tracing-in-vulkan)
 - [Nvidia RTX](https://developer.nvidia.com/rtx)
 - [Microsoft DirectX Raytracing (DXR)](https://blogs.msdn.microsoft.com/directx/2018/03/19/announcing-microsoft-directx-raytracing/)
 - [Nvidia OptiX](https://developer.nvidia.com/optix)
