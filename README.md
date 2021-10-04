@@ -158,7 +158,7 @@ PR's welcome!
 - 💾 [Benedikt Bitterli](https://benedikt-bitterli.me/resources/)
 - 💾 [PBRT Scenes v3](https://www.pbrt.org/scenes-v3.html)
 - 💾 [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca)
-- 💾 [Disney Data Sets](https://www.technology.disneyanimation.com/collaboration-through-sharing)
+- 💾 [Disney Data Sets](https://www.disneyanimation.com/data-sets/)
 
 ## News
 
