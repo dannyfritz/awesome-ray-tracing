@@ -197,6 +197,7 @@ PR's welcome!
 
 - 📖 [Introduction to OptiX - (2017) *Nvidia*](http://on-demand.gputechconf.com/gtc/2017/presentation/s7455-martin-stich-optix.pdf)
 - 📖 [OptiX QuickStart - *Nvidia*](https://docs.nvidia.com/gameworks/content/gameworkslibrary/optix/optix_quickstart.htm)
-- 📖 [Ray Tracing The Next Week in OptiX - (2018) *João Vítor Silva*](https://joaovbs96.github.io/optix/2018/12/24/next-week.html)
+- 📖 [Ray Tracing The Next Week in OptiX - (2018) *João Vítor Silva*](https://joaovbs96.github.io/posts/next-week/)
+  - 📖 [Ray Tracing The Rest of Your Life in OptiX - (2019) *João Vítor Silva*](https://joaovbs96.github.io/posts/rest-life/)
 - 💾 [optix_advanced_samples - (2018) *Nvidia*](https://github.com/nvpro-samples/optix_advanced_samples)
 - 📺 [GPU Ray Tracing for Film and Design: High Performance Ray Tracing with OptiX - (2018) *Oliver Klehm*](http://on-demand.gputechconf.com/siggraph/2018/video/sig1812-2-oliver-klehm-high-performance-optix.html)
