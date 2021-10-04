@@ -100,7 +100,7 @@ PR's welcome!
 
 ## BxDF
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/BSDF05_800.png/179px-BSDF05_800.png" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/BSDF05_800.png" height="200">
 
 - 📖 [PBRT Chapter 5.6 Surface Reflection - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Color_and_Radiometry/Surface_Reflection.html)
 - 📖 [PBRT Chapter 8 Reflection Models - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Reflection_Models.html)
