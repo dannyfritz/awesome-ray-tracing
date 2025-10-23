@@ -154,6 +154,8 @@ PR's welcome!
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Cornell_box.png" height="200"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stanford_Bunny.stl/320px-Stanford_Bunny.stl.png" height="200">
 
+- 💾 [Intel Samples Library](https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html)
+- 💾 [KhronosGroup glTF Samples](https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main)
 - 💾 [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html)
 - 💾 [Benedikt Bitterli](https://benedikt-bitterli.me/resources/)
 - 💾 [PBRT Scenes v3](https://www.pbrt.org/scenes-v3.html)
