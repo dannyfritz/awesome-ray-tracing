@@ -161,6 +161,8 @@ PR's welcome!
 - 💾 [PBRT Scenes v3](https://www.pbrt.org/scenes-v3.html)
 - 💾 [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca)
 - 💾 [Disney Data Sets](https://www.disneyanimation.com/data-sets/)
+- 💾 [University of Utah: Utah Teapot](https://graphics.cs.utah.edu/teapot/)
+- 
 
 ## News
 
