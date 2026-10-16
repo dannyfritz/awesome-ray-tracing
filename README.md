@@ -23,7 +23,7 @@ PR's welcome!
 - [API's](#apis)
   - [Vulkan Ray Tracing](#vulkan-ray-tracing)
   - [Nvidia RTX](#nvidia-rtx)
-  - [Microsoft DirectX Raytracing (RTX)](#microsoft-directx-raytracing-dxr)
+  - [Microsoft DirectX Raytracing (DXR)](#microsoft-directx-raytracing-dxr)
   - [Nvidia OptiX](#nvidia-optix)
   
 ## Legend
@@ -47,7 +47,7 @@ PR's welcome!
 - 📖 [What’s the Difference Between Ray Tracing and Rasterization? - (2018) *Brian Caulfield*](https://blogs.nvidia.com/blog/2018/03/19/whats-difference-between-ray-tracing-rasterization/)
 - 📖 [Ray Tracing Resources Page - (2018) *Tomas Akenine-Möller, Eric Haines, Naty Hoffman, Angelo Pesce, Michał Iwanicki, and Sébastien Hillaire*](http://www.realtimerendering.com/raytracing.html)
 - 📖 [An Introduction to Ray Tracing - (1991) *Andrew Glassner*](http://www.realtimerendering.com/raytracing/An-Introduction-to-Ray-Tracing-The-Morgan-Kaufmann-Series-in-Computer-Graphics-.pdf)
-- 📖 [Physically Based Rendering Book (PBR) - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/)
+- 📖 [Physically Based Rendering Book (PBR) - (2018) *Matt Pharr, Wenzel Jakob, and Greg Humphreys*](http://www.pbr-book.org/)
 - 📖 [Ray Tracing in One Weekend - (2016) *Peter Shirley*](http://in1weekend.blogspot.com/2016/01/ray-tracing-in-one-weekend.html)
   - 📖 [Ray Tracing: The Next Week - (2016) *Peter Shirley*](http://in1weekend.blogspot.com/2016/01/ray-tracing-second-weekend.html)
   - 📖 [Ray Tracing: The Rest of Your Life - (2016) *Peter Shirley*](http://in1weekend.blogspot.com/2016/03/ray-tracing-rest-of-your-life.html)
@@ -58,9 +58,9 @@ PR's welcome!
 ## Iconic Publications
 
 - 📖 [Some Techniques for Shading Machine Renderings of Solids - (1968) *Arthur Appel*](http://graphics.stanford.edu/courses/Appel.pdf)
-- 📖 [An Improved Illumination Model for Shaded Display - (1979) * J.D. Foley and Turner Whitted*](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.156.1534)
+- 📖 [An Improved Illumination Model for Shaded Display - (1979) *Turner Whitted*](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.156.1534)
 - 📖 [The Rendering Equation - (1986) *James T. Kajiya*](http://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/IA725/ia725-12010/kajiya-SIG86-p143.pdf)
-- 📖 [Robust Monte Carlo Methods for Light Transport Simulation (1998) - *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
+- 📖 [Robust Monte Carlo Methods for Light Transport Simulation (1997) - *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
 - 📖 [Global Illumination Compendium - (2003) *Philip Dutré*](https://people.cs.kuleuven.be/~philip.dutre/GI/TotalCompendium.pdf)
 
 
@@ -81,8 +81,8 @@ PR's welcome!
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Inner-product-angle.svg/320px-Inner-product-angle.svg.png" height="200">
 
-- 📖 [PBRT Chapter 2 Geometry and Transformations - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Geometry_and_Transformations.html)
-- 📖 [PBRT Chapter 3 Shapes - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Shapes.html)
+- 📖 [PBRT Chapter 2 Geometry and Transformations - (2018) *Matt Pharr, Wenzel Jakob, and Greg Humphreys*](http://www.pbr-book.org/3ed-2018/Geometry_and_Transformations.html)
+- 📖 [PBRT Chapter 3 Shapes - (2018) *Matt Pharr, Wenzel Jakob, and Greg Humphreys*](http://www.pbr-book.org/3ed-2018/Shapes.html)
 - 📖 [Immersive Math - Linear Algebra - (2015) *J. Ström, K. Åström, and T. Akenine-Möller*](http://immersivemath.com/ila/index.html)
 - 📺 [Linear Algebra - *Khan Academy*](https://www.khanacademy.org/math/linear-algebra)
 
@@ -94,7 +94,7 @@ PR's welcome!
 - 📖 [Realtime Rendering Object/Object Intersection Page - (2019) *Eric Haines*](http://www.realtimerendering.com/intersections.html)
 - 📖 [ERIT: A Collection of Efficient and Reliable Intersection Tests - (1998) *Martin Held*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.9172&rep=rep1&type=pdf)
 - 📖 [Introduction to Acceleration Structures - *Scratchapixel*](https://www.scratchapixel.com/lessons/advanced-rendering/introduction-acceleration-structure/bounding-volume)
-- 📖 [PBRT Chater 4 Primitives and Intersection Acceleration - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Primitives_and_Intersection_Acceleration.html)
+- 📖 [PBRT Chater 4 Primitives and Intersection Acceleration - (2018) *Matt Pharr, Wenzel Jakob, and Greg Humphreys*](http://www.pbr-book.org/3ed-2018/Primitives_and_Intersection_Acceleration.html)
 - 📖 [Dynamic BVH - (2019) *Erin Catto*](https://box2d.org/files/ErinCatto_DynamicBVH_Full.pdf)
 - 📺 [How to Make 3D Fractals](https://www.youtube.com/watch?v=svLzmFuSBhk)
 
@@ -102,24 +102,24 @@ PR's welcome!
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/BSDF05_800.png" height="200">
 
-- 📖 [PBRT Chapter 5.6 Surface Reflection - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Color_and_Radiometry/Surface_Reflection.html)
-- 📖 [PBRT Chapter 8 Reflection Models - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Reflection_Models.html)
-- 📖 [PBRT Chapter 9 Materials - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Materials.html)
-- 📖 [PBRT Chapter 11 Volume Scattering - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Volume_Scattering.html)
+- 📖 [PBRT Chapter 5.6 Surface Reflection - (2018) *Matt Pharr, Wenzel Jakob, and Greg Humphreys*](http://www.pbr-book.org/3ed-2018/Color_and_Radiometry/Surface_Reflection.html)
+- 📖 [PBRT Chapter 8 Reflection Models - (2018) *Matt Pharr, Wenzel Jakob, and Greg Humphreys*](http://www.pbr-book.org/3ed-2018/Reflection_Models.html)
+- 📖 [PBRT Chapter 9 Materials - (2018) *Matt Pharr, Wenzel Jakob, and Greg Humphreys*](http://www.pbr-book.org/3ed-2018/Materials.html)
+- 📖 [PBRT Chapter 11 Volume Scattering - (2018) *Matt Pharr, Wenzel Jakob, and Greg Humphreys*](http://www.pbr-book.org/3ed-2018/Volume_Scattering.html)
 - 📺 [Geometric Optics Playlist - (2013) *Doc Schuster*](https://www.youtube.com/playlist?list=PLLUpvzaZLf3IB4GEhaCg7L3ioiLkHLk7Q)
 - 📖 [Physically Based Sky, Atmosphere, and Cloud Rendering in Frostbite - (2016) *Sebastien Hillaire*](https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/s2016-pbs-frostbite-sky-clouds-new.pdf)
 - 📖 [Revisiting Physically Based Shading in ImageWorks - (2017) *Christopher Kulla & Alejandro Conty*](https://blog.selfshadow.com/publications/s2017-shading-course/imageworks/s2017_pbs_imageworks_slides.pdf)
-- 📖 [A Multifaceted Explanation Part 1 - (2018) *Stephen Hill*](https://blog.selfshadow.com/2018/05/13/multi-faceted-part-1/)
-  - 📖 [A Multifaceted Explanation Part 2 - (2018) *Stephen Hill*](https://blog.selfshadow.com/2018/06/04/multi-faceted-part-2/)
-  - 📖 [A Multifaceted Explanation Part 3 - (2018) *Stephen Hill*](https://blog.selfshadow.com/2018/08/05/multi-faceted-part-3/)
+- 📖 [A Multi-Faceted Exploration Part 1 - (2018) *Stephen Hill*](https://blog.selfshadow.com/2018/05/13/multi-faceted-part-1/)
+  - 📖 [A Multi-Faceted Exploration Part 2 - (2018) *Stephen Hill*](https://blog.selfshadow.com/2018/06/04/multi-faceted-part-2/)
+  - 📖 [A Multi-Faceted Exploration Part 3 - (2018) *Stephen Hill*](https://blog.selfshadow.com/2018/08/05/multi-faceted-part-3/)
   
 ## Sampling Methods
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hammersley_set_2D.svg/289px-Hammersley_set_2D.svg.png" height="200">
 
-- 📖 [PBRT Chapter 7 - (2018) *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Sampling_and_Reconstruction.html)
+- 📖 [PBRT Chapter 7 - (2018) *Matt Pharr, Wenzel Jakob, and Greg Humphreys*](http://www.pbr-book.org/3ed-2018/Sampling_and_Reconstruction.html)
 - 📖 [Generating Random Points in a Sphere - (2018) *Karthik Karanth*](https://karthikkaranth.me/blog/generating-random-points-in-a-sphere/)
-- 📖 [Robust Monte Carlo Methods Chapters 2, 9, & 11 - (1998) *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
+- 📖 [Robust Monte Carlo Methods Chapters 2, 9, & 11 - (1997) *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
 - 📖 [Flavors of Sampling in Ray Tracing  - (2018) *Peter Shirley*](http://psgraphics.blogspot.com/2018/10/flavors-of-sampling-in-ray-tracing.html)
 - 📺 [Continuous Multiple Importance Sampling - SIGGRAPH 2020 - (2020) *Rex West, Iliyan Georgiev , Adrien Gruson , Toshiya Hachisuka*](https://youtu.be/dxFSwplfdpk)
 - 📖 [Position-Free Monte Carlo Simulation for Arbitrary Layered BSDFs - (2018) *Yu Guo, Miloš Hašan, Shuang Zhao*](https://shuangz.com/projects/layered-sa18/)
